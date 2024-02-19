@@ -1,0 +1,1876 @@
+
+		Playing Game 1 
+
+
+*******Deck initialized:
+Size of the Deck is: 49
+
+	1C	1D	1H	1S	2C	2D	2H	2S	3C	3D	3H	3S	4C	4D
+	4H	4S	5C	5D	5H	5S	6C	6D	6H	6S	7C	7D	7H	7S
+	8C	8D	8H	8S	9C	9D	9H	9S	10C	10D	10H	10S	11C	11D
+	11H	11S	12S	13C	13D	13H	13S
+
+*******Deck after Shuffling:
+Size of the Deck is: 49
+
+	7D	2D	8D	4H	1H	10H	8S	2C	4C	7C	8C	9C	5D	3S
+	1C	6S	9H	11H	13H	6D	6C	4S	5S	3H	11D	13D	11S	12S
+	7H	5C	5H	7S	3C	1D	11C	4D	13S	10D	2S	2H	10C	1S
+	3D	6H	9S	9D	8H	13C	10S
+
+
+Number of Player = 4
+
+*******Player 1of ID: LP cards: ****
+
+	7D	1H	4C	5D	9H	6C	11D	7H	3C	13S	10C	9S	10S
+
+*******Player 2of ID: S cards: ****
+
+	2D	10H	7C	3S	11H	4S	13D	5C	1D	10D	1S	9D
+
+*******Player 3of ID: LP cards: ****
+
+	8D	8S	8C	1C	13H	5S	11S	5H	11C	2S	3D	8H
+
+*******Player 4of ID: LP cards: ****
+
+	4H	2C	9C	6S	6D	3H	12S	7S	4D	2H	6H	13C
+
+*******Player 1of ID: LP ******* 
+
+
+		 Observed Pairs: 7D	9H	7H	10C	9S	10S	
+
+CARDS: 
+	1H	4C	5D	6C	11D	3C	13S
+
+*******Player 2of ID: S ******* 
+
+
+		 Observed Pairs: 10H	1D	10D	1S	
+
+CARDS: 
+	2D	7C	3S	11H	4S	13D	5C	9D
+
+*******Player 3of ID: LP ******* 
+
+
+		 Observed Pairs: 8D	8S	8C	5S	11S	5H	11C	8H	
+
+CARDS: 
+	1C	13H	2S	3D
+
+*******Player 4of ID: LP ******* 
+
+
+		 Observed Pairs: 4H	2C	6S	6D	4D	2H	6H	
+
+CARDS: 
+	9C	6S	3H	12S	7S	13C
+
+Pairs removed and Starting Game!!
+
+Round 1:
+
+
+Player0-----Player Type : LP -----
+
+	1H	4C	5D	6C	11D	3C	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	1H	4C	5D	6C	11D	3C	9C	13S
+
+Player1-----Player Type : S -----
+
+	2D	7C	3S	11H	4S	13D	5C	9D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13D	11H	3S	2D	7C	1H	9D	5C	4S
+
+Player2-----Player Type : LP -----
+
+	1C	13H	2S	3D
+
+
+		Taking card from Player #1 with ID : S
+
+		 Observed Pairs: 13D	13H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	1C	2S	3D
+
+Player3-----Player Type : LP -----
+
+	6S	3H	12S	7S	13C
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6S	1C	3H	12S	7S	13C
+
+
+Round 2:
+
+
+Player0-----Player Type : LP -----
+
+	4C	5D	6C	11D	3C	9C	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 6C	6S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	4C	5D	11D	3C	9C	13S
+
+Player1-----Player Type : S -----
+
+	11H	3S	2D	7C	1H	9D	5C	4S
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 4C	4S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H	7C	1H	9D	3S	2D	5C
+
+Player2-----Player Type : LP -----
+
+	2S	3D
+
+
+		Taking card from Player #1 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2S	11H	3D
+
+Player3-----Player Type : LP -----
+
+	1C	3H	12S	7S	13C
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	1C	3H	12S	7S	2S	13C
+
+
+Round 3:
+
+
+Player0-----Player Type : LP -----
+
+	5D	11D	3C	9C	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	5D	11D	3C	9C	1C	13S
+
+Player1-----Player Type : S -----
+
+	7C	1H	9D	3S	2D	5C
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 5D	5C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2D	3S	1H	9D	7C
+
+Player2-----Player Type : LP -----
+
+	11H	3D
+
+
+		Taking card from Player #1 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H	3D	2D
+
+Player3-----Player Type : LP -----
+
+	3H	12S	7S	2S	13C
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3H	12S	7S	2S	11H	13C
+
+
+Round 4:
+
+
+Player0-----Player Type : LP -----
+
+	11D	3C	9C	1C	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 3C	3H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11D	9C	1C	13S
+
+Player1-----Player Type : S -----
+
+	3S	1H	9D	7C
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	7C	11D	9D	1H	3S
+
+Player2-----Player Type : LP -----
+
+	3D	2D
+
+
+		Taking card from Player #1 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3D	2D	7C
+
+Player3-----Player Type : LP -----
+
+	12S	7S	2S	11H	13C
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S	7S	2S	11H	13C	3D
+
+
+Round 5:
+
+
+Player0-----Player Type : LP -----
+
+	9C	1C	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	9C	1C	12S	13S
+
+Player1-----Player Type : S -----
+
+	11D	9D	1H	3S
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 9C	9D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11D	3S	1H
+
+Player2-----Player Type : LP -----
+
+	2D	7C
+
+
+		Taking card from Player #1 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2D	7C	11D
+
+Player3-----Player Type : LP -----
+
+	7S	2S	11H	13C	3D
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 2S	2D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	7S	11H	13C	3D
+
+
+Round 6:
+
+
+Player0-----Player Type : LP -----
+
+	1C	12S	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	1C	7S	12S	13S
+
+Player1-----Player Type : S -----
+
+	3S	1H
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 1H	1C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3S
+
+Player2-----Player Type : LP -----
+
+	7C	11D
+
+
+		Taking card from Player #1 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	7C	3S	11D
+
+Player3-----Player Type : LP -----
+
+	11H	13C	3D
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H	7C	13C	3D
+
+
+Round 7:
+
+
+Player0-----Player Type : LP -----
+
+	7S	12S	13S
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	7S	12S	13S	11H
+
+Player2-----Player Type : LP -----
+
+	3S	11D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3S	11D	7S
+
+Player3-----Player Type : LP -----
+
+	7C	13C	3D
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 3D	3S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	7C	13C
+
+
+Round 8:
+
+
+Player0-----Player Type : LP -----
+
+	12S	13S	11H
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S	7C	13S	11H
+
+Player2-----Player Type : LP -----
+
+	11D	7S
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11D	12S	7S
+
+Player3-----Player Type : LP -----
+
+	13C
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13C	11D
+
+
+Round 9:
+
+
+Player0-----Player Type : LP -----
+
+	7C	13S	11H
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 13S	13C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	7C	11H
+
+Player2-----Player Type : LP -----
+
+	12S	7S
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 7C	7S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S
+
+Player3-----Player Type : LP -----
+
+	11D
+
+
+		Taking card from Player #2 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11D	12S
+
+
+Round 10:
+
+
+Player0-----Player Type : LP -----
+
+	11H
+
+
+		Taking card from Player #3 with ID : LP
+
+		 Observed Pairs: 11H	11D	
+		removed card at index- 0
+		After taking card and removing pairs
+	Empty Hand
+
+
+		GAME OVER!!!!!!
+
+Finally hand of each player after 10 rounds for total players : 4 looks like : 
+
+*******Player****1 cards:
+	Empty Hand
+
+*******Player****2 cards:
+	Empty Hand
+
+*******Player****3 cards:
+	Empty Hand
+
+*******Player****4 cards:
+
+	12S
+--Player4 is the OLD MAID!!!
+
+
+		Playing Game 2 
+
+
+*******Deck initialized:
+Size of the Deck is: 49
+
+	1C	1D	1H	1S	2C	2D	2H	2S	3C	3D	3H	3S	4C	4D
+	4H	4S	5C	5D	5H	5S	6C	6D	6H	6S	7C	7D	7H	7S
+	8C	8D	8H	8S	9C	9D	9H	9S	10C	10D	10H	10S	11C	11D
+	11H	11S	12S	13C	13D	13H	13S
+
+*******Deck after Shuffling:
+Size of the Deck is: 49
+
+	2D	13S	13D	6H	11S	10H	3D	10C	3S	13H	4H	2C	6S	7C
+	1C	2H	1H	8S	6C	3C	3H	7H	11C	9H	8C	13C	8H	4C
+	11D	5H	1S	7S	6D	4D	9D	12S	11H	5D	9C	10S	9S	5C
+	8D	4S	5S	2S	1D	7D	10D
+
+
+Number of Player = 2
+
+*******Player 1of ID: S cards: ****
+
+	2D	13D	11S	3D	3S	4H	6S	1C	1H	6C	3H	11C	8C
+	8H	11D	1S	6D	9D	11H	9C	9S	8D	5S	1D	10D
+
+*******Player 2of ID: LP cards: ****
+
+	13S	6H	10H	10C	13H	2C	7C	2H	8S	3C	7H	9H	13C
+	4C	5H	7S	4D	12S	5D	10S	5C	4S	2S	7D
+
+*******Player 1of ID: S ******* 
+
+
+		 Observed Pairs: 11S	3D	3S	6S	1C	1H	6C	3H	11C	8C	8H	11D	1S	6D	9D	11H	9C	9S	8D	1D	
+
+CARDS: 
+	2D	13D	3D	4H	6S	8C	9D	5S	10D
+
+*******Player 2of ID: LP ******* 
+
+
+		 Observed Pairs: 13S	10H	10C	13H	2C	7C	2H	7H	13C	4C	5H	7S	4D	5D	10S	5C	4S	2S	7D	
+
+CARDS: 
+	13S	6H	10H	2C	8S	3C	9H	4C	5H	12S
+
+Pairs removed and Starting Game!!
+
+Round 1:
+
+
+Player0-----Player Type : S -----
+
+	2D	13D	3D	4H	6S	8C	9D	5S	10D
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 2D	2C	
+		removed card at index- 3
+		After taking card and removing pairs
+
+	13D	3D	8C	9D	4H	6S	10D	5S
+
+Player1-----Player Type : LP -----
+
+	13S	6H	10H	8S	3C	9H	4C	5H	12S
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 13S	13D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6H	10H	8S	3C	9H	4C	5H	12S
+
+
+Round 2:
+
+
+Player0-----Player Type : S -----
+
+	3D	8C	9D	4H	6S	10D	5S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 3D	3C	
+		removed card at index- 3
+		After taking card and removing pairs
+
+	5S	8C	9D	6S	10D	4H
+
+Player1-----Player Type : LP -----
+
+	6H	10H	8S	9H	4C	5H	12S
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 5S	5H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6H	10H	8S	9H	4C	12S
+
+
+Round 3:
+
+
+Player0-----Player Type : S -----
+
+	8C	9D	6S	10D	4H
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 9D	9H	
+		removed card at index- 3
+		After taking card and removing pairs
+
+	10D	6S	4H	8C
+
+Player1-----Player Type : LP -----
+
+	6H	10H	8S	4C	12S
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 10H	10D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6H	8S	4C	12S
+
+
+Round 4:
+
+
+Player0-----Player Type : S -----
+
+	6S	4H	8C
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 3
+		After taking card and removing pairs
+
+	12S	8C	6S	4H
+
+Player1-----Player Type : LP -----
+
+	6H	8S	4C
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6H	12S	8S	4C
+
+
+Round 5:
+
+
+Player0-----Player Type : S -----
+
+	8C	6S	4H
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 4C	4H	
+		removed card at index- 3
+		After taking card and removing pairs
+
+	8C	6S
+
+Player1-----Player Type : LP -----
+
+	6H	12S	8S
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 8S	8C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6H	12S
+
+
+Round 6:
+
+
+Player0-----Player Type : S -----
+
+	6S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 6S	6H	
+		removed card at index- 0
+		After taking card and removing pairs
+	Empty Hand
+
+
+		GAME OVER!!!!!!
+
+Finally hand of each player after 6 rounds for total players : 2 looks like : 
+
+*******Player****1 cards:
+	Empty Hand
+
+*******Player****2 cards:
+
+	12S
+--Player2 is the OLD MAID!!!
+
+
+		Playing Game 3 
+
+
+*******Deck initialized:
+Size of the Deck is: 49
+
+	1C	1D	1H	1S	2C	2D	2H	2S	3C	3D	3H	3S	4C	4D
+	4H	4S	5C	5D	5H	5S	6C	6D	6H	6S	7C	7D	7H	7S
+	8C	8D	8H	8S	9C	9D	9H	9S	10C	10D	10H	10S	11C	11D
+	11H	11S	12S	13C	13D	13H	13S
+
+*******Deck after Shuffling:
+Size of the Deck is: 49
+
+	13S	6D	11S	8S	8C	5C	5H	1H	7C	3C	9H	12S	2C	10D
+	13H	3D	4H	2D	8D	7H	4S	4C	11H	2H	10C	2S	1D	1C
+	1S	8H	9C	5S	11D	7D	10S	9S	13D	11C	6S	3H	7S	6H
+	13C	5D	10H	6C	4D	9D	3S
+
+
+Number of Player = 2
+
+*******Player 1of ID: S cards: ****
+
+	13S	11S	8C	5H	7C	9H	2C	13H	4H	8D	4S	11H	10C
+	1D	1S	9C	11D	10S	13D	6S	7S	13C	10H	4D	3S
+
+*******Player 2of ID: LP cards: ****
+
+	6D	8S	5C	1H	3C	12S	10D	3D	2D	7H	4C	2H	2S
+	1C	8H	5S	7D	9S	11C	3H	6H	5D	6C	9D
+
+*******Player 1of ID: S ******* 
+
+
+		 Observed Pairs: 13S	11S	8C	7C	9H	13H	4H	8D	4S	11H	10C	1D	1S	9C	11D	10S	13D	7S	13C	10H	4D	
+
+CARDS: 
+	11S	5H	2C	4H	10C	6S	3S
+
+*******Player 2of ID: LP ******* 
+
+
+		 Observed Pairs: 6D	8S	5C	1H	3C	3D	2D	7H	2H	2S	1C	8H	5S	7D	9S	3H	6H	5D	6C	9D	
+
+CARDS: 
+	6D	5C	3C	12S	10D	2D	4C	11C
+
+Pairs removed and Starting Game!!
+
+Round 1:
+
+
+Player0-----Player Type : S -----
+
+	11S	5H	2C	4H	10C	6S	3S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 4C	4H	
+		removed card at index- 6
+		After taking card and removing pairs
+
+	10C	2C	11S	3S	6S	5H
+
+Player1-----Player Type : LP -----
+
+	6D	5C	3C	12S	10D	2D	11C
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 10C	10D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6D	5C	3C	12S	2D	11C
+
+
+Round 2:
+
+
+Player0-----Player Type : S -----
+
+	2C	11S	3S	6S	5H
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 6D	6S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11S	5H	2C	3S
+
+Player1-----Player Type : LP -----
+
+	5C	3C	12S	2D	11C
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 11S	11C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	5C	3C	12S	2D
+
+
+Round 3:
+
+
+Player0-----Player Type : S -----
+
+	5H	2C	3S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 5H	5C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3S	2C
+
+Player1-----Player Type : LP -----
+
+	3C	12S	2D
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 3C	3S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S	2D
+
+
+Round 4:
+
+
+Player0-----Player Type : S -----
+
+	2C
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S	2C
+
+Player1-----Player Type : LP -----
+
+	2D
+
+
+		Taking card from Player #0 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2D	12S
+
+
+Round 5:
+
+
+Player0-----Player Type : S -----
+
+	2C
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 2C	2D	
+		removed card at index- 0
+		After taking card and removing pairs
+	Empty Hand
+
+
+		GAME OVER!!!!!!
+
+Finally hand of each player after 5 rounds for total players : 2 looks like : 
+
+*******Player****1 cards:
+	Empty Hand
+
+*******Player****2 cards:
+
+	12S
+--Player2 is the OLD MAID!!!
+
+
+		Playing Game 4 
+
+
+*******Deck initialized:
+Size of the Deck is: 49
+
+	1C	1D	1H	1S	2C	2D	2H	2S	3C	3D	3H	3S	4C	4D
+	4H	4S	5C	5D	5H	5S	6C	6D	6H	6S	7C	7D	7H	7S
+	8C	8D	8H	8S	9C	9D	9H	9S	10C	10D	10H	10S	11C	11D
+	11H	11S	12S	13C	13D	13H	13S
+
+*******Deck after Shuffling:
+Size of the Deck is: 49
+
+	10H	6S	11C	8H	4D	6C	10S	13D	8S	3C	7S	7C	4S	11S
+	2C	11D	10D	2S	13S	8D	10C	11H	3S	2H	7D	6H	5S	12S
+	2D	9D	5D	6D	9S	13H	1D	8C	1S	13C	9C	1H	7H	4C
+	9H	3D	3H	4H	5H	5C	1C
+
+
+Number of Player = 2
+
+*******Player 1of ID: RandP cards: ****
+
+	10H	11C	4D	10S	8S	7S	4S	2C	10D	13S	10C	3S	7D
+	5S	2D	5D	9S	1D	1S	9C	7H	9H	3H	5H	1C
+
+*******Player 2of ID: LP cards: ****
+
+	6S	8H	6C	13D	3C	7C	11S	11D	2S	8D	11H	2H	6H
+	12S	9D	6D	13H	8C	13C	1H	4C	3D	4H	5C
+
+*******Player 1of ID: RandP ******* 
+
+
+		 Observed Pairs: 10H	4D	10S	7S	4S	2C	10D	10C	3S	7D	5S	2D	5D	9S	1D	1S	9C	7H	9H	3H	5H	1C	
+
+CARDS: 
+	11C	8S	7S	13S	5S	9S	1D
+
+*******Player 2of ID: LP ******* 
+
+
+		 Observed Pairs: 6S	8H	6C	13D	3C	11S	11D	2S	8D	11H	2H	6H	6D	13H	8C	13C	4C	3D	4H	
+
+CARDS: 
+	8H	13D	7C	11S	12S	9D	1H	5C
+
+Pairs removed and Starting Game!!
+
+Round 1:
+
+
+Player0-----Player Type : RandP -----
+
+	11C	8S	7S	13S	5S	9S	1D
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 1H	1D	
+		removed card at index- 6
+		After taking card and removing pairs
+
+	11C	8S	7S	13S	5S	9S
+
+Player1-----Player Type : LP -----
+
+	8H	13D	7C	11S	12S	9D	5C
+
+
+		Taking card from Player #0 with ID : RandP
+
+		 Observed Pairs: 11S	11C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	8H	13D	7C	12S	9D	5C
+
+
+Round 2:
+
+
+Player0-----Player Type : RandP -----
+
+	8S	7S	13S	5S	9S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 5S	5C	
+		removed card at index- 5
+		After taking card and removing pairs
+
+	8S	7S	13S	9S
+
+Player1-----Player Type : LP -----
+
+	8H	13D	7C	12S	9D
+
+
+		Taking card from Player #0 with ID : RandP
+
+		 Observed Pairs: 8H	8S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13D	7C	12S	9D
+
+
+Round 3:
+
+
+Player0-----Player Type : RandP -----
+
+	7S	13S	9S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 7S	7C	
+		removed card at index- 1
+		After taking card and removing pairs
+
+	13S	9S
+
+Player1-----Player Type : LP -----
+
+	13D	12S	9D
+
+
+		Taking card from Player #0 with ID : RandP
+
+		 Observed Pairs: 13D	13S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S	9D
+
+
+Round 4:
+
+
+Player0-----Player Type : RandP -----
+
+	9S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 9S	9D	
+		removed card at index- 1
+		After taking card and removing pairs
+	Empty Hand
+
+
+		GAME OVER!!!!!!
+
+Finally hand of each player after 4 rounds for total players : 2 looks like : 
+
+*******Player****1 cards:
+	Empty Hand
+
+*******Player****2 cards:
+
+	12S
+--Player2 is the OLD MAID!!!
+
+
+		Playing Game 5 
+
+
+*******Deck initialized:
+Size of the Deck is: 49
+
+	1C	1D	1H	1S	2C	2D	2H	2S	3C	3D	3H	3S	4C	4D
+	4H	4S	5C	5D	5H	5S	6C	6D	6H	6S	7C	7D	7H	7S
+	8C	8D	8H	8S	9C	9D	9H	9S	10C	10D	10H	10S	11C	11D
+	11H	11S	12S	13C	13D	13H	13S
+
+*******Deck after Shuffling:
+Size of the Deck is: 49
+
+	13D	9S	3C	10S	3D	5D	8D	6H	11C	4C	8S	1D	11S	1C
+	5C	10C	2S	7H	4D	8H	4S	2C	9H	13C	1H	11H	1S	7S
+	7C	13H	6C	13S	10D	3H	11D	2H	3S	5H	9C	8C	12S	2D
+	9D	6S	5S	7D	6D	4H	10H
+
+
+Number of Player = 5
+
+*******Player 1of ID: LP cards: ****
+
+	13D	5D	8S	10C	4S	11H	6C	2H	12S	7D
+
+*******Player 2of ID: LP cards: ****
+
+	9S	8D	1D	2S	2C	1S	13S	3S	2D	6D
+
+*******Player 3of ID: S cards: ****
+
+	3C	6H	11S	7H	9H	7S	10D	5H	9D	4H
+
+*******Player 4of ID: RandP cards: ****
+
+	10S	11C	1C	4D	13C	7C	3H	9C	6S	10H
+
+*******Player 5of ID: RandP cards: ****
+
+	3D	4C	5C	8H	1H	13H	11D	8C	5S
+
+*******Player 1of ID: LP ******* 
+
+
+		 Observed Pairs: 
+
+CARDS: 
+	13D	5D	8S	10C	4S	11H	6C	2H	12S	7D
+
+*******Player 2of ID: LP ******* 
+
+
+		 Observed Pairs: 1D	2S	2C	1S	2D	
+
+CARDS: 
+	9S	8D	2S	13S	3S	6D
+
+*******Player 3of ID: S ******* 
+
+
+		 Observed Pairs: 7H	9H	7S	9D	
+
+CARDS: 
+	3C	6H	11S	10D	5H	4H
+
+*******Player 4of ID: RandP ******* 
+
+
+		 Observed Pairs: 10S	10H	
+
+CARDS: 
+	11C	1C	4D	13C	7C	3H	9C	6S
+
+*******Player 5of ID: RandP ******* 
+
+
+		 Observed Pairs: 5C	8H	8C	5S	
+
+CARDS: 
+	3D	4C	1H	13H	11D
+
+Pairs removed and Starting Game!!
+
+Round 1:
+
+
+Player0-----Player Type : LP -----
+
+	13D	5D	8S	10C	4S	11H	6C	2H	12S	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13D	5D	8S	10C	4S	11H	6C	2H	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	9S	8D	2S	13S	3S	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 13D	13S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	9S	8D	2S	3S	6D
+
+Player2-----Player Type : S -----
+
+	3C	6H	11S	10D	5H	4H
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11S	6H	9S	10D	5H	4H	3C
+
+Player3-----Player Type : RandP -----
+
+	11C	1C	4D	13C	7C	3H	9C	6S
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 11C	11S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	1C	4D	13C	7C	3H	9C	6S
+
+Player4-----Player Type : RandP -----
+
+	4C	1H	13H	11D
+
+
+		Taking card from Player #3 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 3
+		After taking card and removing pairs
+
+	4C	1H	13H	7C	11D
+
+
+Round 2:
+
+
+Player0-----Player Type : LP -----
+
+	5D	8S	10C	4S	11H	6C	2H	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 4S	4C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	5D	8S	10C	11H	6C	2H	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	8D	2S	3S	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	8D	2S	5D	3S	6D
+
+Player2-----Player Type : S -----
+
+	6H	9S	10D	5H	4H	3C
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3C	4H	8D	10D	6H	5H	9S
+
+Player3-----Player Type : RandP -----
+
+	1C	4D	13C	3H	9C	6S
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 6H	6S	
+		removed card at index- 4
+		After taking card and removing pairs
+
+	1C	4D	13C	3H	9C
+
+Player4-----Player Type : RandP -----
+
+	1H	13H	7C	11D
+
+
+		Taking card from Player #3 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 1
+		After taking card and removing pairs
+
+	1H	13H	4D	7C	11D
+
+
+Round 3:
+
+
+Player0-----Player Type : LP -----
+
+	8S	10C	11H	6C	2H	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	8S	10C	11H	1H	6C	2H	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	2S	5D	3S	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2S	5D	8S	3S	6D
+
+Player2-----Player Type : S -----
+
+	3C	4H	8D	10D	5H	9S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3C	9S	2S	4H	8D	5H	10D
+
+Player3-----Player Type : RandP -----
+
+	1C	13C	3H	9C
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 3C	3H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	1C	13C	9C
+
+Player4-----Player Type : RandP -----
+
+	13H	4D	7C	11D
+
+
+		Taking card from Player #3 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13H	1C	4D	7C	11D
+
+
+Round 4:
+
+
+Player0-----Player Type : LP -----
+
+	10C	11H	1H	6C	2H	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	10C	11H	13H	1H	6C	2H	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	5D	8S	3S	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	5D	8S	3S	10C	6D
+
+Player2-----Player Type : S -----
+
+	9S	2S	4H	8D	5H	10D
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 5D	5H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	9S	4H	2S	10D	8D
+
+Player3-----Player Type : RandP -----
+
+	13C	9C
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 3
+		After taking card and removing pairs
+
+	13C	10D	9C
+
+Player4-----Player Type : RandP -----
+
+	1C	4D	7C	11D
+
+
+		Taking card from Player #3 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 1
+		After taking card and removing pairs
+
+	1C	4D	10D	7C	11D
+
+
+Round 5:
+
+
+Player0-----Player Type : LP -----
+
+	11H	13H	1H	6C	2H	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 1H	1C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H	13H	6C	2H	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	8S	3S	10C	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	8S	3S	11H	10C	6D
+
+Player2-----Player Type : S -----
+
+	9S	4H	2S	8D
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 8D	8S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	9S	2S	4H
+
+Player3-----Player Type : RandP -----
+
+	13C	9C
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 9C	9S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13C
+
+Player4-----Player Type : RandP -----
+
+	4D	10D	7C	11D
+
+
+		Taking card from Player #3 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	4D	10D	7C	13C	11D
+
+
+Round 6:
+
+
+Player0-----Player Type : LP -----
+
+	13H	6C	2H	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13H	6C	2H	4D	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	3S	11H	10C	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3S	13H	11H	10C	6D
+
+Player2-----Player Type : S -----
+
+	2S	4H
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	3S	4H	2S
+
+Player4-----Player Type : RandP -----
+
+	10D	7C	13C	11D
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	10D	7C	13C	3S	11D
+
+
+Round 7:
+
+
+Player0-----Player Type : LP -----
+
+	6C	2H	4D	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	6C	10D	2H	4D	12S	3D	7D
+
+Player1-----Player Type : LP -----
+
+	13H	11H	10C	6D
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 6C	6D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	13H	11H	10C
+
+Player2-----Player Type : S -----
+
+	4H	2S
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2S	4H	13H
+
+Player4-----Player Type : RandP -----
+
+	7C	13C	3S	11D
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 13C	13H	
+		removed card at index- 2
+		After taking card and removing pairs
+
+	7C	3S	11D
+
+
+Round 8:
+
+
+Player0-----Player Type : LP -----
+
+	10D	2H	4D	12S	3D	7D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 7D	7C	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	10D	2H	4D	12S	3D
+
+Player1-----Player Type : LP -----
+
+	11H	10C
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 10C	10D	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H
+
+Player2-----Player Type : S -----
+
+	2S	4H
+
+
+		Taking card from Player #1 with ID : LP
+
+		 Observed Pairs: 
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H	4H	2S
+
+Player4-----Player Type : RandP -----
+
+	3S	11D
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 
+		removed card at index- 1
+		After taking card and removing pairs
+
+	3S	4H	11D
+
+
+Round 9:
+
+
+Player0-----Player Type : LP -----
+
+	2H	4D	12S	3D
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 3D	3S	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	2H	4D	12S
+
+Player2-----Player Type : S -----
+
+	11H	2S
+
+
+		Taking card from Player #0 with ID : LP
+
+		 Observed Pairs: 2S	2H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	11H
+
+Player4-----Player Type : RandP -----
+
+	4H	11D
+
+
+		Taking card from Player #2 with ID : S
+
+		 Observed Pairs: 11D	11H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	4H
+
+
+Round 10:
+
+
+Player0-----Player Type : LP -----
+
+	4D	12S
+
+
+		Taking card from Player #4 with ID : RandP
+
+		 Observed Pairs: 4D	4H	
+		removed card at index- 0
+		After taking card and removing pairs
+
+	12S
+
+
+		GAME OVER!!!!!!
+
+Finally hand of each player after 10 rounds for total players : 5 looks like : 
+
+*******Player****1 cards:
+
+	12S
+--Player1 is the OLD MAID!!!
+
+*******Player****2 cards:
+	Empty Hand
+
+*******Player****3 cards:
+	Empty Hand
+
+*******Player****4 cards:
+	Empty Hand
+
+*******Player****5 cards:
+	Empty Hand
+
+
+ 	 STATISTICS 
+
+
+Total number of games played:	5
+
+Total number of players generated:	15
+
+Maximum number of players generated for a game:	5
+
+Minimum number of players generated for a game:	2
+
+Average number of players generated for a game:	3
+
+Maximum number of rounds played in a game:	10
+
+Minimum number of rounds played in a game:	4
+
+Average number of rounds played in a game:	7
+
+Number of players generated based on Type of Player LP:
+Type LP	8
+Type RandP	3
+Type S	4
+
+
+Loser Statistic based on Type of Player LP:
+Type LP	5
