@@ -1,0 +1,3 @@
+Standard
+r 3
+C 12 D 12 H 12
